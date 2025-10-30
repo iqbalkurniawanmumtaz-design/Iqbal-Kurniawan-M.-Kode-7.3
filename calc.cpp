@@ -2,7 +2,7 @@
 	#include <fstream>
 	#include <string>
 	#include <iomanip>
-	#include <cstdlib> // untuk atoi()
+	#include <cstdlib> 
 	
 	using namespace std;
 	
@@ -186,4 +186,5 @@
 	
 	    return 0;
 	}
+
 
